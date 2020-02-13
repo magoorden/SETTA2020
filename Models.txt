@@ -1,0 +1,7 @@
+The content of the models is as follows.
+
+LockIII_base_mode: the model as published in the CCTA paper, yet two errors corrected.
+LockIII_model_A: The 'worst' way to model LockIII, yet equivalent in final controlled behavior to the base model.
+LockIII_model_B: Model_A with split requirements.
+LockIII_model_C: Model_A with split plants.
+LockIII_model_D: Model_A with split plants and requirements.

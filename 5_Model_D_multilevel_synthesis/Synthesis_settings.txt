@@ -1,0 +1,7 @@
+Multilevel synthesis - clustering settings:
+
+--clustering-alpha = 1
+--clustering-beta = 1.5
+--clustering-mu = 2.5
+
+All other settings default.

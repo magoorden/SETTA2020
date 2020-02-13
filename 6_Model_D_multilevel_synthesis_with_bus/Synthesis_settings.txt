@@ -1,0 +1,11 @@
+Multilevel synthesis - clustering settings:
+
+--clustering-alpha = 2
+--clustering-beta = 4.0
+--clustering-gamma = 4.2
+--clustering-mu = 4.0
+
+--with-bus = yes
+--bus-structure = bottom_bus
+
+All other settings default.
